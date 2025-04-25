@@ -25,4 +25,5 @@ Built this project to improve Analytic and visualization skills with data and ex
 2) VISUAL ANALYSIS OF DATA: Imported Matplotlib and searborn libraries for visualization. I have used several functions from matplotlib and seaborn for displaying the visualization.
 3) PREPARING INTERACTIVE DASHBOARDS IN POWERBI: After cleaning and visualization of data, I have the uploaded the new dataset to the powerBI, where we can use different visualization types like bar chart, line chart, treemap, cards for analysis of data. Dashboards indicates all the key insights in one place. PowerBI is a powerful tool for making interactive dashboards.
 
-
+# DashBoard
+![Image](https://github.com/user-attachments/assets/f0d673b1-1b86-4228-8ef7-ce5c6ba2ffd5)
